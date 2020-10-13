@@ -1,0 +1,2 @@
+tqdm==4.48.2
+async-dns @ git+https://github.com/gera2ld/async_dns.git@03fede68fb207ccbdbb7aad7bd97dabad8bf88db
