@@ -22,8 +22,6 @@ async def main():
                       help="file containning names to resolve")
     parser.add_option('-t', '--types', action="append", default=[],
                       help='query types, default as `any`')
-    parser.add_option("-s", "--bad-string", dest="bad_string", default=None,
-                      help="")
     parser.add_option("-v", "--verbose",
                       action="store_true", dest="verbose", default=False,
                       help="print INFO level messages to stdout")
