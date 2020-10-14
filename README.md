@@ -21,5 +21,5 @@ Options:
 ```
 Example:
 ```sh
-python dns.py -r ./resolvers.txt -f ./names.txt -t A -t CNAME
+python yadb.py -r ./resolvers.txt -f ./names.txt -t A -t CNAME
 ```
